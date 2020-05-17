@@ -1,0 +1,12 @@
+name: "Hello Actions"
+description: "Greet someone"
+author: "sathviknarasimha@gmail.com"
+
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "mic"
+  color: "purple"
